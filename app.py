@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions using VS Code")
+print("Hello from GitHub Actions using VS Code editor")
